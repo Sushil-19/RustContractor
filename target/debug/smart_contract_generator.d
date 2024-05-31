@@ -1,0 +1,1 @@
+/Users/sushildube/Documents/Rust_Youtube/Rust/Rust_Projects/CLI_Smart_Contract/smart_contract_generator/target/debug/smart_contract_generator: /Users/sushildube/Documents/Rust_Youtube/Rust/Rust_Projects/CLI_Smart_Contract/smart_contract_generator/src/main.rs
