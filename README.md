@@ -10,7 +10,7 @@ Smart Contract Generator is a command-line tool that assists in generating templ
 
 ## Features
 
-- **Student Management Contracts**: Generate smart contracts for managing students, including custom structs and functions.
+- **Smart Contracts**: Generate smart contracts for Rust, including custom structs and functions.
 - **Token Contracts**: Generate token-based smart contracts with basic functionality like balance checks and transfers.
 - **Customization**: Specify the number of structs and functions to include in the generated contract.
 - **Automated Code Generation**: Automatically generates getter and setter methods for struct fields.
