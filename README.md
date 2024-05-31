@@ -89,7 +89,7 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-If you have any questions or feedback, feel free to reach out via GitHub Issues or contact me directly at your.email@example.com.
+If you have any questions or feedback, feel free to reach out via GitHub Issues or contact me directly at dubesushil99@gmail.com.
 
 Acknowledgements
 ink! - eDSL to write smart contracts in Rust for Substrate-based blockchains.
