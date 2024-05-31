@@ -22,8 +22,8 @@ To install Smart Contract Generator, you'll need to have Rust installed on your 
 Clone the repository and navigate into the project directory:
 
 ```sh
-git clone https://github.com/yourusername/smart-contract-generator.git
-cd smart-contract-generator
+git clone https://github.com/Sushil-19/RustContractor.git
+cd RustContractor
 ```
 
 ## Build the project:
