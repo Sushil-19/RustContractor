@@ -1,4 +1,4 @@
-# Smart Contract Generator
+# RustContractor
 
 ## Overview
 
